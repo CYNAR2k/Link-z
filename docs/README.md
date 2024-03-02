@@ -117,7 +117,9 @@
 - [BAT TO .EXE](https://www.majorgeeks.com/files/details/bat_to_exe_converter.html)
 - [ONION SHARE](https://onionshare.org/) - Open source tool that lets you share files, host websites, and chat with friends using the Tor network
 - [Cider](https://cider.sh/) - A new cross-platform Apple Music experience based on Vue.js written from scratch with performance in mind.
-- [SpotX](https://github.com/spotx-cli) - A multipurpose ad-blocker for Spotify desktop application on Windows, Linux and Mac platforms. 
+- [SpotX](https://github.com/spotx-cli) - A multipurpose ad-blocker for Spotify desktop application on Windows, Linux and Mac platforms.
+- [Find and Replace](https://github.com/zzzprojects/findandreplace) - Find and Replace (FNR) is an open source tool to find and replace text in multiple files.
+- [VSCodium](https://github.com/VSCodium/vscodium) - Microsoft’s vscode without telemetry/tracking.
 
 
 # Benchmark & Performance Tools 💻
@@ -177,6 +179,7 @@
 - [Blur Busters](https://blurbusters.com/)
 - [PSU Tier List](https://cultists.network/140/psu-tier-list/)
 - [King Faris](https://kingfaris.co.uk/) - This site provides valuable information to help PC builders select parts and learn how to overclock
+- [PSU Pinout] (https://pc-mods.com/blogs/psu-pinout-repository)
 
 # Websites 🌐
 
