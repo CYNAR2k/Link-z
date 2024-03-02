@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:150px;" src="https://i.imgur.com/K2W9CwV.png" />
+  <img style="width:150px;" src="blob:https://imgur.com/41bf884c-8acf-4db1-8568-41928af15c50" />
 </p>
 
 <!--idoc:ignore:start-->
