@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:150px;" src="https://cdn.discordapp.com/attachments/556963306259218434/796045315206938634/Logotipo_Final.png" />
+  <img style="width:150px;" src="https://i.imgur.com/K2W9CwV.png" />
 </p>
 
 <!--idoc:ignore:start-->
