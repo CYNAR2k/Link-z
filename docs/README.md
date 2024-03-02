@@ -124,6 +124,9 @@
 - [Find and Replace](https://github.com/zzzprojects/findandreplace) - Find and Replace (FNR) is an open source tool to find and replace text in multiple files.
 - [VSCodium](https://github.com/VSCodium/vscodium) - Microsoft’s vscode without telemetry/tracking.
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Lets you change visual stuff from windows 10 & 11.
+- [Nvidia Cleanup Tool](https://developer.nvidia.com/downloads/cleanup-tool) - Basically DDU but just for NVIDIA.
+- [AMD Cleanup Tool](https://drivers.amd.com/drivers/amdcleanuputility.exe) - Basically DDU but just for AMD.
+- [QWinFF Media Converter](https://qwinff.github.io/) - ffmpeg gui
 
 
 # Benchmark & Performance Tools 💻
@@ -183,7 +186,8 @@
 - [Blur Busters](https://blurbusters.com/)
 - [PSU Tier List](https://cultists.network/140/psu-tier-list/)
 - [King Faris](https://kingfaris.co.uk/) - This site provides valuable information to help PC builders select parts and learn how to overclock
-- [PSU Pinout] (https://pc-mods.com/blogs/psu-pinout-repository)
+- [PSU Pinout](https://pc-mods.com/blogs/psu-pinout-repository)
+- [Elo Shapes](https://www.eloshapes.com/) - Website to compare mice shapes and sizes, not 100% accurate but great to get an idea
 
 # Websites 🌐
 
