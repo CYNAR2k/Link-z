@@ -120,6 +120,7 @@
 - [SpotX](https://github.com/spotx-cli) - A multipurpose ad-blocker for Spotify desktop application on Windows, Linux and Mac platforms.
 - [Find and Replace](https://github.com/zzzprojects/findandreplace) - Find and Replace (FNR) is an open source tool to find and replace text in multiple files.
 - [VSCodium](https://github.com/VSCodium/vscodium) - Microsoft’s vscode without telemetry/tracking.
+- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Lets you change visual stuff from windows 10 & 11.
 
 
 # Benchmark & Performance Tools 💻
